@@ -1,5 +1,5 @@
 <?php
-class Team{
+class mobileWEBSITE{
     private $ConDB;
     public function __construct(){
         $con = new ConDB();

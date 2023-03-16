@@ -3,7 +3,7 @@
     include_once("../model/functionM.php");
     $id = htmlspecialchars($_GET["id"]);
 
-    $obj_name = new Team();
+    $obj_name = new mobileWEBSITE();
     $rs2 = $obj_name->getMobileDetail($id);
     $jsonCode = $rs2;
     $jsonDecode = json_decode($jsonCode, true);

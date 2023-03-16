@@ -1,7 +1,7 @@
 <?php
     include_once 'model/ConDB.php';
     include_once 'model/functionM.php';
-    $obj_name = new Team();
+    $obj_name = new mobileWEBSITE();
     $rs2 = $obj_name->getMobile();
 
     // Read JSON Decode From encode to decode
