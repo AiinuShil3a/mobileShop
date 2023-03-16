@@ -1,5 +1,6 @@
 ## mobileShop
 #By Supphalak M. 6444259034 64/45
+#File run By JSON เป็นการเลือกใช้งานแบบ JSON ไม่ใช่การดึงข้อมูลมูลจาก DATABASE
 ### INDEX
 ![H1](https://user-images.githubusercontent.com/118444269/225512339-4aa254a4-5016-48ea-80e4-59d002d77ea5.png)
 ### SHOWMOBILE
