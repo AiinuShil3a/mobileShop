@@ -8,6 +8,6 @@
 ![H2](https://user-images.githubusercontent.com/118444269/225512349-773cc2c1-5afc-41cc-b5a1-bf9a945ebbf4.png)
 ## DETAILMOBILE
 ![H2 1](https://user-images.githubusercontent.com/118444269/225512351-52096c03-1776-4e23-8077-181d92ec51d3.png)
-## EXIT TO HOME
+## EXIT TO INDEX
 ![H3](https://user-images.githubusercontent.com/118444269/225512352-60712cd0-e5f7-4125-b710-f60590a8a0ef.png)
 
